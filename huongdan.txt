@@ -1,0 +1,3 @@
+git init wsl-php
+cd wsl-php
+nano huongdan.txt
